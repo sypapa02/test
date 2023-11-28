@@ -1,0 +1,59 @@
+button{ display: block;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 45px;border-radius: 50px;background-color: blue;
+    font-weight: lighter;background: wheat;outline: none;cursor: pointer;
+    box-shadow: 10px 10px white;margin: 30px auto;padding: 30px;color: tomato;}
+
+    button:hover{box-shadow: 0 4px;}
+    button:active{box-shadow: 0 0 blue;top: 20px;}
+    
+    body{background-color: rgb(0, 0, 0);}
+
+
+
+    header{background-color: rgb(224, 212, 212);}
+
+    h1{color: white;position: relative;bottom: 130px;right: 800px;text-decoration: overline;
+        font-family: Impact;font-style: italic;text-shadow: 10px 10px 10px blue;font-size: 50px;}
+        table{background-color:rgb(0, 0, 0);}
+
+        h2{color: white;position:relative;bottom: 100px;text-shadow: 10px 10px 10px blue;right: 100px;}
+
+        p{color: aliceblue;font-size: 20px;position: relative;bottom: 30px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            text-shadow: 10px 10px 20px black;font-style: italic;}
+
+ H3{font-size: 25PX;color: white;text-decoration: underline;font-style: italic;position: relative;bottom: 90px;}
+
+ .reseau img{
+    width: 80px;border-radius: 50%;margin: 10px 5px;transition: background 0.5s;position: relative;right: 90px;bottom: 600px;display: block;left: 30px;
+}
+
+.reseau img:hover{
+    background: rgba(228, 233, 234, 0.425);
+}
+
+
+table{color: white;}
+
+h5{
+    font-size: 50px;position: relative;bottom: 70px;text-shadow: 10px 10px 10px green;right: 430px;text-decoration: overline;
+}
+
+#work{font-size: 25px;font-family: Georgia, 'Times New Roman', Times, serif;}
+
+p{position: relative;bottom: 90px;font-family: 'Josefin Sans', sans-serif;font-size: 25px;text-shadow: 10px 10px 10px black;
+word-spacing: 20px;}
+
+a{text-decoration: none;}
+
+H6{
+    Font-size: 50PX;color: white;text-decoration: underline;font-style: italic;position: relative;left: 90px;
+    text-shadow: 10px 10px 10px red;text-decoration: overline;bottom: 95px;
+        }
+
+.logo img{position: relative;left: 250px;border-radius: 30px;transform: background 0.5s;}
+.logo img:hover{background: white;}
+
+.wtsp{transform: background 0.5s;position: relative;left: 700px;bottom: 400px;color: aliceblue;}
+.wtsp:hover{background:white;}
+
